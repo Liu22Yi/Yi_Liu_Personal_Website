@@ -3,17 +3,15 @@ title: "Yi Liu"
 image: "Yi_Liu.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.cn/incareer/in/%E6%80%A1-%E5%88%98-865b39184"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/Liu22Yi"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:liuy2018@mail.sustech.edu.cn"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am an undergraduate student of Southern University of Science and Technology. 
+I love talking nature observation and sports, 
+
