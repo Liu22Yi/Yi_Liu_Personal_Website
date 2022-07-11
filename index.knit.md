@@ -1,0 +1,20 @@
+---
+title: "Yi Liu"
+image: "Yi_Liu.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.cn/incareer/in/%E6%80%A1-%E5%88%98-865b39184"
+  - label: GitHub
+    url: "https://github.com/Liu22Yi"
+  - label: Email
+    url: "mailto:liuy2018@mail.sustech.edu.cn"
+  - label: Yi Liu
+    url: "Yi_Liu.html"
+        
+output:
+  postcards::jolla
+---
+ 
+I am an undergraduate student of Southern University of Science and Technology. 
+I love talking nature observation and sports, 
+
