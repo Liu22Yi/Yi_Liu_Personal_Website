@@ -8,8 +8,8 @@ links:
     url: "https://github.com/Liu22Yi"
   - label: Email
     url: "mailto:liuy2018@mail.sustech.edu.cn"
-  - label: Yi Liu
-    url: "Yi_Liu.html"
+  - label: cv
+    url: "Yi_Liu_cv.html"
         
 output:
   postcards::jolla
